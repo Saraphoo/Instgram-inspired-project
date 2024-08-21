@@ -4,4 +4,4 @@ After taking my PHP class, I want to try making an Instagram clone to better und
 
 Uses Vanilla PHP
 
-Link to original repository: **https://github.com/PatrickHirsch/ASE230-Final-Project/tree/sarahsBranch**
+Link to original repository with my branch: **https://github.com/PatrickHirsch/ASE230-Final-Project/tree/sarahsBranch**
